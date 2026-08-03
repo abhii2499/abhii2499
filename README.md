@@ -64,11 +64,5 @@
 
 ---
 
-### 📌 Featured Projects
-
-**[Blinkit Sales Analysis Dashboard](#)** — Power BI dashboard analyzing 1M+ sales records across categories & outlets using Power Query (ETL) and DAX (KPI calculations).
-
-
----
 
 <p align="center"><i>Transforming Data into Insights | Building Data-Driven Solutions</i></p>
